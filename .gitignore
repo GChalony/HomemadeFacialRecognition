@@ -1,3 +1,8 @@
 .idea
 dlib_models/
 !dlib_models/README.md
+
+Results/
+!Results/example.gif
+
+Photos/
