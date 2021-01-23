@@ -1,1 +1,3 @@
 .idea
+dlib_models/
+!dlib_models/README.md
